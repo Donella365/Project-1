@@ -26,8 +26,8 @@ Download Cisco Packet Tracer
 Add Devices: Wireless home router, PC, laptop, webcam
 ![Screenshot from 2024-05-14 08-34-12](https://github.com/Donella365/Virtual-Home-Network/assets/160889267/6322c072-8110-4ec3-b761-48af2ae5aad7)
 
-Connect the devices: Connect the wireless home router to the PC. 
-![connect](https://github.com/Donella365/Virtual-Home-Network/assets/160889267/70d8c0d4-d9da-4000-b8e3-cdc557ba61f8)
+Connect the devices...Connect the wireless home router to the PC. 
+![now](https://github.com/Donella365/Virtual-Home-Network/assets/160889267/fdcd19bf-7331-45c5-8762-264846550c88)
 
 For the laptop we want to do wireless, but the laptop comes with a wired card here. 
 ![laptop1](https://github.com/Donella365/Virtual-Home-Network/assets/160889267/6693df62-015d-4de5-a24d-7bd33409e491)
