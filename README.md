@@ -44,5 +44,5 @@ Now for the Webcam, the port status was off and the SSIDs were different by defa
 So I turned on port status and matched the SSIDs.
 ![IOT5](https://github.com/Donella365/Virtual-Home-Network/assets/160889267/7fd09777-e3b3-418f-b0e7-281debb2ba5a)
 
-Now the IoT webcam is connected. 
+Now the IoT webcam is connected wirelessly.
 ![iot6](https://github.com/Donella365/Virtual-Home-Network/assets/160889267/69e6b78a-ad55-4377-9867-a54120f74953)
